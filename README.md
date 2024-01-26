@@ -1,4 +1,4 @@
-## Academic GPA Calculator
+## Academic GPA Calculator -- done with C++ Classes
 
 This project aims to provide a comprehensive solution for calculating a student's GPA (Grade Point Average) based on inputted credit hours and grades for their classes. The GPA Calculator simplifies the process of GPA calculation by offering a command-line interface for inputting class information and obtaining the total GPA.
 
